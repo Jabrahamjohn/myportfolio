@@ -49,7 +49,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I love learning new and current set skills, developing projects to learn and collaborations.\n Revolutionizing the future with Ground breaking technology and skills that will change the world and your future.";
+  "I love learning new and current set skills, develop projects while learning and collaborating. Revolutionizing the future with Ground breaking technology and skills that will change the world and your future.";
 
 const About = () => {
   return (
