@@ -159,6 +159,13 @@ section#Education {
   justify-content: center;
   
 }
+div.eduction-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
 /* style the education cells */
 div.education-cell {
   border-radius: 10px;
