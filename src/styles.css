@@ -147,7 +147,3 @@ img.socialIcon {
     transform: translateY(0);
   }
 }
-
-.arrow {
-  animation: bounce 1s infinite;
-}
