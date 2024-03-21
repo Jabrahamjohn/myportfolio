@@ -3,8 +3,8 @@ import React from "react";
 /* add an education section to your portfolio site.*/
 const Education = () => {
   return (
-    <section className="padding" id="education">
-      <div className="education-grid" style={{ backgroundColor: "white", padding: "2rem" }}>
+    <section className="grid" id="education">
+      <div  style={{ backgroundColor: "white", padding: "2rem" }}>
         <h2>Education</h2>
         <div>
           <h3>Bsc.Mathematics &Computer Science</h3>
