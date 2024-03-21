@@ -3,11 +3,9 @@ import React from "react";
 
 const Education = () => {
   return (
-    <div className="container">
-      <img src="../images/educational.jpg" alt="graduation" />
-      <section id="Education">
-        <h2>Education</h2>
-        <div className="education-grid">
+    <section id="Education">
+      <h2>Education</h2>
+      <div className="education-grid">
           <div className="education-cell">
           <h3>Bsc.Mathematics &Computer Science</h3>
           <p>Technical University of Mombasa</p>
@@ -28,9 +26,9 @@ const Education = () => {
           <p>Nairobi University & Kenya Ministry of Health Virtual Academy</p>
           <p>2022 - 2023</p>
           </div>
-        </div>
+      </div>        
       </section>
-    </div>   
+     
   );
 };
 
