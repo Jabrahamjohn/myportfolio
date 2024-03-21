@@ -4,7 +4,7 @@ import React from "react";
 const Education = () => {
   return (
     <div className="container">
-      <img src="../images/educational.jpg"></img>
+      <img src="../images/educational.jpg" alt="graduation" />
       <section id="Education">
         <h2>Education</h2>
         <div className="education-grid">
