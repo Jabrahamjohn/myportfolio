@@ -4,8 +4,8 @@ import React from "react";
 const Education = () => {
   return (
     <section id="Education">
-      <h2>Education</h2>
-         
+      <h2 style={{textAlign: "center"}}>Education</h2>
+
         <div className="education-cell">
           <h3>Bsc.Mathematics &Computer Science</h3>
           <p>Technical University of Mombasa</p>
