@@ -160,7 +160,7 @@ section#Education {
   
 }
 /* style the education cells */
-div.educationCell {
+div.education-cell {
   border-radius: 10px;
   border: 1px solid rgb(204, 204, 204);
   display: flex;
@@ -172,22 +172,22 @@ div.educationCell {
   margin: 1rem;
 }
 /* use the following styles for the title */
-h3.educationTitle {
+h3.education-cell {
   font-size: 1.5rem;
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
 }
 /* use the following styles for the institution */
-p.educationInstitution {
+p.education-cell {
   font-size: 1rem;
   font-weight: 300;
   margin: 0;
   padding-top: 1rem;
 }
-p.educationDate {
-  font-size: 0.8rem;
-  font-weight: 300;
-  margin: 0;
-  padding-top: 1rem;
+p.education-cell span {
+  font-weight: 600;
+}
+p.education-cell:last-child {
+  margin-bottom: 0;
 }
