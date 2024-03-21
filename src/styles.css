@@ -151,6 +151,15 @@ img.socialIcon {
 /* grid of 4 education cells */
 /* styles.css */
 
+div.container{
+  display: flex;
+  align-items: center;
+}
+
+div.container img{
+  max-width: 100px;
+  margin-right: 20px;
+}
 /* Center the section heading */
 section#Education h2 {
   text-align: center;
