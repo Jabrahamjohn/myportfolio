@@ -49,10 +49,10 @@ const projectList = [
     url: "https://jabrahamjohn.github.io/RESUME/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "STOCKISHA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A inventory tracking web app that helps in managing stock and sales of a business for better decision making",
+    url: "https://stockisha.streamlit.app/",
   },
 ];
 
