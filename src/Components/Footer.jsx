@@ -146,6 +146,7 @@ Footer.propTypes = {
   primaryColor: PropTypes.string,
   twitter: PropTypes.string,
   youTube: PropTypes.string,
+  credly: PropTypes.string,
 };
 
 export default Footer;
