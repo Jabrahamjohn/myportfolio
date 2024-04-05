@@ -114,6 +114,15 @@ const Footer = (props) => {
             <img src={youTubeIcon} alt="YouTube" className="socialIcon" />
           </a>
         )}
+        {credly && (
+          <a
+            href={`https://www.credly.com/users/${credly}`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={credlyIcon} alt="Credly" className="socialIcon" />
+          </a>
+        )}
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
         Created by {name}
