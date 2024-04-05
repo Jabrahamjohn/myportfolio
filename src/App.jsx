@@ -34,6 +34,7 @@ const siteProps = {
   medium: "jabrahamjohns",
   twitter: "jabrahamjohns",
   youTube: "jabrahamjohns",
+  credly: "https://www.credly.com/users/abraham-john.6558d00d",
 };
 
 const primaryColor = "#4E567E";
