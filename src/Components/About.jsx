@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Software Engineer and CyberSecurity enthusiast. I love python, backend development & security analysis. Ampassionate about revolutionizing tech and problem with edge cutting skills";
+  "I'm a Software Engineer and CyberSecurity enthusiast. I love python, backend development & security analysis. I'm passionate about revolutionizing tech problem with edge cutting skills";
 
 /**
  * List of some of skills or technologies you work on, are learning,
