@@ -40,13 +40,13 @@ const projectList = [
     title: "Web Development ",
     description:
       "Contributed  and developed the site for rotaract organization in nyali to help in the humanitarian course",
-    url: "https://rotaractnyali.godaddysites.com/",
+    url: "rotaractnyali.org",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and work abilities.",
-    url: "https://jabrahamjohn.github.io/RESUME/",
+    url: "https://resume.ajnetworkskenya.me/",
   },
   {
     title: "STOCKISHA",
